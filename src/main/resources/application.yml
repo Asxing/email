@@ -1,0 +1,6 @@
+spring:
+  mail:
+    host: smtp.126.com
+    username: holddie@126.com
+    password: holddie126
+    default-encoding: UTF-8
